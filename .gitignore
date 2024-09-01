@@ -1,0 +1,5 @@
+networks
+.vscode
+.mypy_cache
+.ipynb_checkpoints
+__pycache__
